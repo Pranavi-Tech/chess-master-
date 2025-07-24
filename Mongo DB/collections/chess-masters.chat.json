@@ -1,0 +1,116 @@
+[{
+  "_id": {
+    "$oid": "687fc73edd55bbbd66a7fc2c"
+  },
+  "gameId": "game_101",
+  "message": "Good luck!",
+  "player": "user_101",
+  "createdAt": {
+    "$date": "2025-07-22T17:15:42.588Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-22T17:15:42.588Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687fc73edd55bbbd66a7fc2d"
+  },
+  "gameId": "game_101",
+  "message": "Thanks! You too.",
+  "player": "user_205",
+  "createdAt": {
+    "$date": "2025-07-22T17:15:43.588Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-22T17:15:43.588Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687fc73edd55bbbd66a7fc2e"
+  },
+  "gameId": "game_101",
+  "message": "Interesting opening choice",
+  "player": "user_101",
+  "createdAt": {
+    "$date": "2025-07-22T17:15:47.588Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-22T17:15:47.588Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687fc73edd55bbbd66a7fc2f"
+  },
+  "gameId": "game_202",
+  "message": "Ready when you are",
+  "player": "user_307",
+  "createdAt": {
+    "$date": "2025-07-22T17:15:42.588Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-22T17:15:42.588Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687fc73edd55bbbd66a7fc30"
+  },
+  "gameId": "game_202",
+  "message": "Let's make this a good game",
+  "player": "user_412",
+  "createdAt": {
+    "$date": "2025-07-22T17:15:44.588Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-22T17:15:44.588Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687fc73edd55bbbd66a7fc31"
+  },
+  "gameId": "game_202",
+  "message": "That was a brilliant move!",
+  "player": "user_307",
+  "createdAt": {
+    "$date": "2025-07-22T17:15:52.588Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-22T17:15:52.588Z"
+  }
+},
+{
+  "_id": "507f1f77bcf86cd799439011",
+  "gameId": "game_205",
+  "message": "Great move!",
+  "player": "user_742",
+  "createdAt": "2025-07-22T18:30:15.451+00:00",
+  "updatedAt": "2025-07-22T18:30:15.451+00:00"
+},
+{
+  "_id": "689ac83b21d45ef01b34e5a2",
+  "gameId": "game_309",
+  "message": "Try again?",
+  "player": "user_519",
+  "createdAt": "2025-07-22T19:45:22.117+00:00",
+  "updatedAt": "2025-07-22T19:45:22.117+00:00"
+},
+{
+  "_id": "bde4569f0a8c37d12f84c7b3",
+  "gameId": "game_118",
+  "message": "You won!",
+  "player": "user_903",
+  "createdAt": "2025-07-22T20:12:05.833+00:00",
+  "updatedAt": "2025-07-22T20:12:05.833+00:00"
+},
+{
+  "_id": "f3256a78e9d1b44c5678d90e",
+  "gameId": "game_643",
+  "message": "Almost there!",
+  "player": "user_204",
+  "createdAt": "2025-07-22T21:03:44.299+00:00",
+  "updatedAt": "2025-07-22T21:03:44.299+00:00"
+}]

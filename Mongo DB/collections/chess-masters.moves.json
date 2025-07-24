@@ -1,0 +1,141 @@
+[{
+  "_id": {
+    "$oid": "687fc26f10adb27abb167c97"
+  },
+  "gameId": "game_id",
+  "move": "e2e4",
+  "createdAt": {
+    "$date": "2025-07-22T16:55:11.314Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-22T16:55:11.314Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687fc3bd10adb27abb167c98"
+  },
+  "gameId": "game_101",
+  "move": "e2e4",
+  "createdAt": {
+    "$date": "2025-07-22T17:00:44.995Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-22T17:00:44.995Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687fc3bd10adb27abb167c99"
+  },
+  "gameId": "game_101",
+  "move": "e7e5",
+  "createdAt": {
+    "$date": "2025-07-22T17:00:44.995Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-22T17:00:44.995Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687fc3bd10adb27abb167c9a"
+  },
+  "gameId": "game_101",
+  "move": "g1f3",
+  "createdAt": {
+    "$date": "2025-07-22T17:00:44.995Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-22T17:00:44.995Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687fc3bd10adb27abb167c9b"
+  },
+  "gameId": "game_202",
+  "move": "d2d4",
+  "createdAt": {
+    "$date": "2025-07-22T17:00:44.995Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-22T17:00:44.995Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687fc3bd10adb27abb167c9c"
+  },
+  "gameId": "game_202",
+  "move": "d7d5",
+  "createdAt": {
+    "$date": "2025-07-22T17:00:44.995Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-22T17:00:44.995Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687fc3bd10adb27abb167c9d"
+  },
+  "gameId": "game_202",
+  "move": "c2c4",
+  "createdAt": {
+    "$date": "2025-07-22T17:00:44.995Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-22T17:00:44.995Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6880624c6005e092dc0a5927"
+  },
+  "id": "687fc3bd10adb27abb167c99",
+  "gameId": "game_101",
+  "move": "e7e5",
+  "createdAt": "2025-07-22T17:00:44.995+00:00",
+  "updatedAt": "2025-07-22T17:00:44.995+00:00"
+},
+{
+  "_id": {
+    "$oid": "6880624c6005e092dc0a5928"
+  },
+  "id": "687fc3bd10adb27abb167c9a",
+  "gameId": "game_101",
+  "move": "g1f3",
+  "createdAt": "2025-07-22T17:00:44.995+00:00",
+  "updatedAt": "2025-07-22T17:00:44.995+00:00"
+},
+{
+  "_id": {
+    "$oid": "6880624c6005e092dc0a5929"
+  },
+  "id": "687fc3bd10adb27abb167c9b",
+  "gameId": "game_101",
+  "move": "b8c6",
+  "createdAt": "2025-07-22T17:00:44.995+00:00",
+  "updatedAt": "2025-07-22T17:00:44.995+00:00"
+},
+{
+  "_id": {
+    "$oid": "6880624c6005e092dc0a592a"
+  },
+  "id": "687fc3bd10adb27abb167c9c",
+  "gameId": "game_101",
+  "move": "f1c4",
+  "createdAt": "2025-07-22T17:00:44.995+00:00",
+  "updatedAt": "2025-07-22T17:00:44.995+00:00"
+},
+{
+  "_id": {
+    "$oid": "6880624c6005e092dc0a592b"
+  },
+  "id": "687fc3bd10adb27abb167c9d",
+  "gameId": "game_101",
+  "move": "f8c5",
+  "createdAt": "2025-07-22T17:00:44.995+00:00",
+  "updatedAt": "2025-07-22T17:00:44.995+00:00"
+}]

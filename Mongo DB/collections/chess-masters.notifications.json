@@ -1,0 +1,156 @@
+[{
+  "_id": {
+    "$oid": "687fc86707bc3f6fea7ff778"
+  },
+  "userId": "user1_id",
+  "text": "It's your turn!",
+  "createdAt": {
+    "$date": "2025-07-22T17:20:39.869Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-22T17:20:39.869Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687fc8be07bc3f6fea7ff779"
+  },
+  "userId": "user_101",
+  "text": "It's your turn in game_101!",
+  "type": "game_turn",
+  "gameId": "game_101",
+  "isRead": false,
+  "createdAt": {
+    "$date": "2025-07-22T17:22:06.719Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-22T17:22:06.719Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687fc8be07bc3f6fea7ff77a"
+  },
+  "userId": "user_205",
+  "text": "Alice accepted your friend request",
+  "type": "friend_request",
+  "isRead": false,
+  "createdAt": {
+    "$date": "2025-07-22T17:22:06.719Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-22T17:22:06.719Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687fc8be07bc3f6fea7ff77b"
+  },
+  "userId": "user_307",
+  "text": "New message from Bob: 'Great game yesterday!'",
+  "type": "message",
+  "isRead": true,
+  "createdAt": {
+    "$date": "2025-07-22T16:22:06.719Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-22T16:22:06.719Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687fc8be07bc3f6fea7ff77c"
+  },
+  "userId": "user_412",
+  "text": "Your game_202 has started!",
+  "type": "game_start",
+  "gameId": "game_202",
+  "isRead": false,
+  "createdAt": {
+    "$date": "2025-07-22T17:22:06.719Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-22T17:22:06.719Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687fc8be07bc3f6fea7ff77d"
+  },
+  "userId": "user_523",
+  "text": "Daily chess challenge available!",
+  "type": "promotion",
+  "isRead": false,
+  "createdAt": {
+    "$date": "2025-07-21T17:22:06.719Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-21T17:22:06.719Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687fc8be07bc3f6fea7ff77e"
+  },
+  "userId": "user_618",
+  "text": "Charlie just defeated you in game_303",
+  "type": "game_result",
+  "gameId": "game_303",
+  "isRead": false,
+  "createdAt": {
+    "$date": "2025-07-22T17:22:06.719Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-22T17:22:06.719Z"
+  }
+},
+{
+  "_id": "687fc8be07bc3f6fea7ff77a",
+  "userId": "user_102",
+  "text": "Sato-san, your move is pending in match_102!",
+  "type": "game_turn",
+  "gameId": "game_102",
+  "isRead": false,
+  "createdAt": "2025-07-22T17:22:06.719+00:00",
+  "updatedAt": "2025-07-22T17:22:06.719+00:00"
+},
+{
+  "_id": "687fc8be07bc3f6fea7ff77b",
+  "userId": "user_103",
+  "text": "Kim-ssi, it's your turn in game_103!",
+  "type": "game_turn",
+  "gameId": "game_103",
+  "isRead": false,
+  "createdAt": "2025-07-22T17:22:06.719+00:00",
+  "updatedAt": "2025-07-22T17:22:06.719+00:00"
+},
+{
+  "_id": "687fc8be07bc3f6fea7ff77c",
+  "userId": "user_104",
+  "text": "Zhang, your action is needed in match_104",
+  "type": "game_turn",
+  "gameId": "game_104",
+  "isRead": false,
+  "createdAt": "2025-07-22T17:22:06.719+00:00",
+  "updatedAt": "2025-07-22T17:22:06.719+00:00"
+},
+{
+  "_id": "687fc8be07bc3f6fea7ff77d",
+  "userId": "user_105",
+  "text": "Devi, please take your turn in game_105",
+  "type": "game_turn",
+  "gameId": "game_105",
+  "isRead": false,
+  "createdAt": "2025-07-22T17:22:06.719+00:00",
+  "updatedAt": "2025-07-22T17:22:06.719+00:00"
+},
+{
+  "_id": "687fc8be07bc3f6fea7ff77e",
+  "userId": "user_106",
+  "text": "Nguyen, opponents are waiting in match_106",
+  "type": "game_turn",
+  "gameId": "game_106",
+  "isRead": false,
+  "createdAt": "2025-07-22T17:22:06.719+00:00",
+  "updatedAt": "2025-07-22T17:22:06.719+00:00"
+}]

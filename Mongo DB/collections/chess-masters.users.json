@@ -1,0 +1,141 @@
+[{
+  "_id": {
+    "$oid": "687fc0bc160670d00537b120"
+  },
+  "name": "Alice",
+  "email": "alice@monsta.com",
+  "createdAt": {
+    "$date": "2025-07-22T16:47:56.054Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-22T16:47:56.054Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687fc2d5160670d00537b121"
+  },
+  "name": "Bob",
+  "email": "bob@monsta.com",
+  "createdAt": {
+    "$date": "2025-07-22T16:56:53.162Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-22T16:56:53.162Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687fc2d5160670d00537b122"
+  },
+  "name": "Charlie",
+  "email": "charlie@monsta.com",
+  "createdAt": {
+    "$date": "2025-07-22T16:56:53.162Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-22T16:56:53.162Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687fc2d5160670d00537b123"
+  },
+  "name": "Diana",
+  "email": "diana@monsta.com",
+  "createdAt": {
+    "$date": "2025-07-22T16:56:53.162Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-22T16:56:53.162Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687fc2d5160670d00537b124"
+  },
+  "name": "Ethan",
+  "email": "ethan@monsta.com",
+  "createdAt": {
+    "$date": "2025-07-22T16:56:53.162Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-22T16:56:53.162Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687fc2d5160670d00537b125"
+  },
+  "name": "Fiona",
+  "email": "fiona@monsta.com",
+  "createdAt": {
+    "$date": "2025-07-22T16:56:53.162Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-22T16:56:53.162Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687fc2d5160670d00537b126"
+  },
+  "name": "George",
+  "email": "george@monsta.com",
+  "createdAt": {
+    "$date": "2025-07-22T16:56:53.162Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-22T16:56:53.162Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68805f984ac934cc72c5a956"
+  },
+  "id": "687fc0bc160670d00537b121",
+  "name": "Chen Wei",
+  "email": "chenwei@monsta.com",
+  "createdAt": "2025-07-22T16:47:56.054+00:00",
+  "updatedAt": "2025-07-22T16:47:56.054+00:00"
+},
+{
+  "_id": {
+    "$oid": "68805f984ac934cc72c5a957"
+  },
+  "id": "687fc0bc160670d00537b122",
+  "name": "Park Min-ji",
+  "email": "minji@monsta.com",
+  "createdAt": "2025-07-22T16:47:56.054+00:00",
+  "updatedAt": "2025-07-22T16:47:56.054+00:00"
+},
+{
+  "_id": {
+    "$oid": "68805f984ac934cc72c5a958"
+  },
+  "id": "687fc0bc160670d00537b123",
+  "name": "Tanaka Haruto",
+  "email": "haruto@monsta.com",
+  "createdAt": "2025-07-22T16:47:56.054+00:00",
+  "updatedAt": "2025-07-22T16:47:56.054+00:00"
+},
+{
+  "_id": {
+    "$oid": "68805f984ac934cc72c5a959"
+  },
+  "id": "687fc0bc160670d00537b124",
+  "name": "Nguyễn Anh",
+  "email": "anh@monsta.com",
+  "createdAt": "2025-07-22T16:47:56.054+00:00",
+  "updatedAt": "2025-07-22T16:47:56.054+00:00"
+},
+{
+  "_id": {
+    "$oid": "68805f984ac934cc72c5a95a"
+  },
+  "id": "687fc0bc160670d00537b125",
+  "name": "Patel Arjun",
+  "email": "arjun@monsta.com",
+  "createdAt": "2025-07-22T16:47:56.054+00:00",
+  "updatedAt": "2025-07-22T16:47:56.054+00:00"
+}]

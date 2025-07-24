@@ -1,0 +1,164 @@
+[{
+  "_id": {
+    "$oid": "687fc9396c91bde6f8d8b966"
+  },
+  "userId": "user1_id",
+  "mode": "blitz",
+  "createdAt": {
+    "$date": "2025-07-22T17:24:09.577Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-22T17:24:09.577Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687fc9746c91bde6f8d8b967"
+  },
+  "userId": "user_101",
+  "mode": "blitz",
+  "rating": 1520,
+  "status": "queued",
+  "createdAt": {
+    "$date": "2025-07-22T17:25:08.315Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-22T17:25:08.315Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687fc9746c91bde6f8d8b968"
+  },
+  "userId": "user_205",
+  "mode": "rapid",
+  "rating": 1780,
+  "status": "queued",
+  "createdAt": {
+    "$date": "2025-07-22T17:25:08.315Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-22T17:25:08.315Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687fc9746c91bde6f8d8b969"
+  },
+  "userId": "user_307",
+  "mode": "bullet",
+  "rating": 1925,
+  "status": "matched",
+  "matchId": "match_501",
+  "createdAt": {
+    "$date": "2025-07-22T17:20:08.315Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-22T17:25:08.315Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687fc9746c91bde6f8d8b96a"
+  },
+  "userId": "user_412",
+  "mode": "blitz",
+  "rating": 1640,
+  "status": "queued",
+  "createdAt": {
+    "$date": "2025-07-22T17:25:08.315Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-22T17:25:08.315Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687fc9746c91bde6f8d8b96b"
+  },
+  "userId": "user_523",
+  "mode": "daily",
+  "rating": 1450,
+  "status": "cancelled",
+  "createdAt": {
+    "$date": "2025-07-22T17:24:08.315Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-22T17:24:38.315Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687fc9746c91bde6f8d8b96c"
+  },
+  "userId": "user_618",
+  "mode": "bullet",
+  "rating": 2050,
+  "status": "queued",
+  "createdAt": {
+    "$date": "2025-07-22T17:25:08.315Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-22T17:25:08.315Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6880b1b71924fde8ebcc4e44"
+  },
+  "id": "687fc9746c91bde6f8d8b968",
+  "userId": "user_102",
+  "mode": "rapid",
+  "rating": 1675,
+  "status": "queued",
+  "createdAt": "2025-07-22T17:25:08.315+00:00",
+  "updatedAt": "2025-07-22T17:25:08.315+00:00"
+},
+{
+  "_id": {
+    "$oid": "6880b1b71924fde8ebcc4e45"
+  },
+  "id": "687fc9746c91bde6f8d8b969",
+  "userId": "user_103",
+  "mode": "bullet",
+  "rating": 1890,
+  "status": "queued",
+  "createdAt": "2025-07-22T17:25:08.315+00:00",
+  "updatedAt": "2025-07-22T17:25:08.315+00:00"
+},
+{
+  "_id": {
+    "$oid": "6880b1b71924fde8ebcc4e46"
+  },
+  "id": "687fc9746c91bde6f8d8b96a",
+  "userId": "user_104",
+  "mode": "classical",
+  "rating": 1420,
+  "status": "queued",
+  "createdAt": "2025-07-22T17:25:08.315+00:00",
+  "updatedAt": "2025-07-22T17:25:08.315+00:00"
+},
+{
+  "_id": {
+    "$oid": "6880b1b71924fde8ebcc4e47"
+  },
+  "id": "687fc9746c91bde6f8d8b96b",
+  "userId": "user_105",
+  "mode": "blitz",
+  "rating": 1535,
+  "status": "queued",
+  "createdAt": "2025-07-22T17:25:08.315+00:00",
+  "updatedAt": "2025-07-22T17:25:08.315+00:00"
+},
+{
+  "_id": {
+    "$oid": "6880b1b71924fde8ebcc4e48"
+  },
+  "id": "687fc9746c91bde6f8d8b96c",
+  "userId": "user_106",
+  "mode": "tournament",
+  "rating": 1755,
+  "status": "queued",
+  "createdAt": "2025-07-22T17:25:08.315+00:00",
+  "updatedAt": "2025-07-22T17:25:08.315+00:00"
+}]

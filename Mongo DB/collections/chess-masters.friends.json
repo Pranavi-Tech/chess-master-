@@ -1,0 +1,125 @@
+[{
+  "_id": {
+    "$oid": "687fc7d0ed709990b388e3fb"
+  },
+  "userId": "user_101",
+  "friendId": "user_205",
+  "status": "accepted",
+  "createdAt": {
+    "$date": "2025-07-22T17:18:08.948Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-22T17:18:08.948Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687fc7d0ed709990b388e3fc"
+  },
+  "userId": "user_307",
+  "friendId": "user_412",
+  "status": "pending",
+  "createdAt": {
+    "$date": "2025-07-22T17:18:08.948Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-22T17:18:08.948Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687fc7d0ed709990b388e3fd"
+  },
+  "userId": "user_523",
+  "friendId": "user_618",
+  "status": "accepted",
+  "createdAt": {
+    "$date": "2025-07-21T17:18:08.948Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-21T17:18:08.948Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687fc7d0ed709990b388e3fe"
+  },
+  "userId": "user_724",
+  "friendId": "user_809",
+  "status": "blocked",
+  "reason": "inappropriate behavior",
+  "createdAt": {
+    "$date": "2025-07-22T17:18:08.948Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-22T17:18:08.948Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687fc7d0ed709990b388e3ff"
+  },
+  "userId": "user_915",
+  "friendId": "user_102",
+  "status": "accepted",
+  "createdAt": {
+    "$date": "2025-07-19T17:18:08.948Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-22T17:18:08.948Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687fc7d0ed709990b388e400"
+  },
+  "userId": "user_113",
+  "friendId": "user_214",
+  "status": "pending",
+  "createdAt": {
+    "$date": "2025-07-22T17:18:08.948Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-22T17:18:08.948Z"
+  }
+},
+{
+  "_id": "687fc7d0ed709990b388e3fd",
+  "userId": "user_412",
+  "friendId": "user_415",
+  "status": "accepted",
+  "createdAt": "2025-07-22T17:18:08.948+00:00",
+  "updatedAt": "2025-07-22T17:18:08.948+00:00"
+},
+{
+  "_id": "687fc7d0ed709990b388e3fe",
+  "userId": "user_418",
+  "friendId": "user_307",
+  "status": "pending",
+  "createdAt": "2025-07-22T17:18:08.948+00:00",
+  "updatedAt": "2025-07-22T17:18:08.948+00:00"
+},
+{
+  "_id": "687fc7d0ed709990b388e3ff",
+  "userId": "user_415",
+  "friendId": "user_418",
+  "status": "rejected",
+  "createdAt": "2025-07-22T17:18:08.948+00:00",
+  "updatedAt": "2025-07-22T17:18:08.948+00:00"
+},
+{
+  "_id": "687fc7d0ed709990b388e400",
+  "userId": "user_307",
+  "friendId": "user_415",
+  "status": "accepted",
+  "createdAt": "2025-07-22T17:18:08.948+00:00",
+  "updatedAt": "2025-07-22T17:18:08.948+00:00"
+},
+{
+  "_id": "687fc7d0ed709990b388e401",
+  "userId": "user_412",
+  "friendId": "user_418",
+  "status": "pending",
+  "createdAt": "2025-07-22T17:18:08.948+00:00",
+  "updatedAt": "2025-07-22T17:18:08.948+00:00"
+}]

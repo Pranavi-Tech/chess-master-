@@ -1,0 +1,166 @@
+[{
+  "_id": {
+    "$oid": "687fc1d40bc5de4294d1f9be"
+  },
+  "player1": "player1_id",
+  "player2": "player2_id",
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-07-22T16:52:36.106Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-22T16:52:36.106Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687fc63f0bc5de4294d1f9bf"
+  },
+  "player1": "user_101",
+  "player2": "user_205",
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-07-22T17:11:27.058Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-22T17:11:27.058Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687fc63f0bc5de4294d1f9c0"
+  },
+  "player1": "user_307",
+  "player2": "user_412",
+  "status": "completed",
+  "result": "1-0",
+  "createdAt": {
+    "$date": "2025-07-21T17:11:27.058Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-22T17:11:27.058Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687fc63f0bc5de4294d1f9c1"
+  },
+  "player1": "user_523",
+  "player2": "user_618",
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-07-22T17:11:27.058Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-22T17:11:27.058Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687fc63f0bc5de4294d1f9c2"
+  },
+  "player1": "user_724",
+  "player2": "user_809",
+  "status": "abandoned",
+  "reason": "player disconnect",
+  "createdAt": {
+    "$date": "2025-07-19T17:11:27.058Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-22T17:11:27.058Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687fc63f0bc5de4294d1f9c3"
+  },
+  "player1": "user_915",
+  "player2": "user_102",
+  "status": "completed",
+  "result": "0-1",
+  "createdAt": {
+    "$date": "2025-07-20T17:11:27.058Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-22T17:11:27.058Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687fc63f0bc5de4294d1f9c4"
+  },
+  "player1": "user_113",
+  "player2": "user_214",
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-07-22T17:11:27.058Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-22T17:11:27.058Z"
+  }
+},
+{
+  "_id": "687fce360f9dca069a1a7fe7",
+  "gameId": "game_102",
+  "playerWhite": "user_102",
+  "playerBlack": "user_103",
+  "result": "0-1",
+  "moves": 38,
+  "date": "2025-07-14T00:00:00.000+00:00",
+  "opening": "B06",
+  "timeControl": "5+3",
+  "createdAt": "2025-07-22T17:45:26.310+00:00",
+  "updatedAt": "2025-07-22T17:45:26.310+00:00"
+},
+{
+  "_id": "687fce360f9dca069a1a7fe8",
+  "gameId": "game_103",
+  "playerWhite": "user_104",
+  "playerBlack": "user_105",
+  "result": "½-½",
+  "moves": 67,
+  "date": "2025-07-16T00:00:00.000+00:00",
+  "opening": "D02",
+  "timeControl": "10+0",
+  "createdAt": "2025-07-22T17:45:26.310+00:00",
+  "updatedAt": "2025-07-22T17:45:26.310+00:00"
+},
+{
+  "_id": "687fce360f9dca069a1a7fe9",
+  "gameId": "game_104",
+  "playerWhite": "user_106",
+  "playerBlack": "user_102",
+  "result": "1-0",
+  "moves": 29,
+  "date": "2025-07-17T00:00:00.000+00:00",
+  "opening": "C41",
+  "timeControl": "3+2",
+  "createdAt": "2025-07-22T17:45:26.310+00:00",
+  "updatedAt": "2025-07-22T17:45:26.310+00:00"
+},
+{
+  "_id": "687fce360f9dca069a1a7fea",
+  "gameId": "game_105",
+  "playerWhite": "user_103",
+  "playerBlack": "user_104",
+  "result": "0-1",
+  "moves": 55,
+  "date": "2025-07-18T00:00:00.000+00:00",
+  "opening": "A00",
+  "timeControl": "15+10",
+  "createdAt": "2025-07-22T17:45:26.310+00:00",
+  "updatedAt": "2025-07-22T17:45:26.310+00:00"
+},
+{
+  "_id": "687fce360f9dca069a1a7feb",
+  "gameId": "game_106",
+  "playerWhite": "user_105",
+  "playerBlack": "user_106",
+  "result": "½-½",
+  "moves": 82,
+  "date": "2025-07-19T00:00:00.000+00:00",
+  "opening": "E61",
+  "timeControl": "30+20",
+  "createdAt": "2025-07-22T17:45:26.310+00:00",
+  "updatedAt": "2025-07-22T17:45:26.310+00:00"
+}]

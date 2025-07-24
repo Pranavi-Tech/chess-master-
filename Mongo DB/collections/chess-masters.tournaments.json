@@ -1,0 +1,280 @@
+[{
+  "_id": {
+    "$oid": "687fcc9bad32d57ac7377745"
+  },
+  "name": "Blitz Cup",
+  "createdAt": {
+    "$date": "2025-07-22T17:38:35.583Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-22T17:38:35.583Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687fccfcad32d57ac7377746"
+  },
+  "name": "Blitz Championship",
+  "type": "blitz",
+  "status": "upcoming",
+  "startDate": {
+    "$date": "2025-08-01T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2025-08-03T00:00:00.000Z"
+  },
+  "prizePool": 5000,
+  "maxPlayers": 100,
+  "createdAt": {
+    "$date": "2025-07-22T17:40:12.186Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-22T17:40:12.186Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687fccfcad32d57ac7377747"
+  },
+  "name": "Rapid Grand Prix",
+  "type": "rapid",
+  "status": "active",
+  "startDate": {
+    "$date": "2025-07-20T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2025-07-27T00:00:00.000Z"
+  },
+  "currentRound": 3,
+  "playersJoined": 64,
+  "createdAt": {
+    "$date": "2025-07-21T17:40:12.186Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-22T17:40:12.186Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687fccfcad32d57ac7377748"
+  },
+  "name": "Bullet Masters",
+  "type": "bullet",
+  "status": "completed",
+  "startDate": {
+    "$date": "2025-06-10T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2025-06-12T00:00:00.000Z"
+  },
+  "winner": "user_618",
+  "prizePool": 2500,
+  "participants": 50,
+  "createdAt": {
+    "$date": "2025-07-19T17:40:12.186Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-21T17:40:12.186Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687fccfcad32d57ac7377749"
+  },
+  "name": "Daily Puzzle Challenge",
+  "type": "daily",
+  "status": "active",
+  "startDate": {
+    "$date": "2025-07-15T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2025-07-30T00:00:00.000Z"
+  },
+  "currentDay": 9,
+  "maxDays": 15,
+  "entryFee": 100,
+  "createdAt": {
+    "$date": "2025-07-22T17:40:12.186Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-22T17:40:12.186Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687fccfcad32d57ac737774a"
+  },
+  "name": "Weekend Swiss Open",
+  "type": "classical",
+  "status": "upcoming",
+  "startDate": {
+    "$date": "2025-08-10T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2025-08-11T00:00:00.000Z"
+  },
+  "rounds": 5,
+  "timeControl": "90+30",
+  "createdAt": {
+    "$date": "2025-07-22T17:40:12.186Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-22T17:40:12.186Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687fccfcad32d57ac737774b"
+  },
+  "name": "Chess.com Qualifier",
+  "type": "mixed",
+  "status": "registration",
+  "startDate": {
+    "$date": "2025-09-01T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2025-09-05T00:00:00.000Z"
+  },
+  "minRating": 1500,
+  "organizer": "Chess.com",
+  "createdAt": {
+    "$date": "2025-07-22T17:40:12.186Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-22T17:40:12.186Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687fcd7d0f9dca069a1a7fe0"
+  },
+  "name": "Blitz Championship",
+  "type": "blitz",
+  "status": "upcoming",
+  "startDate": {
+    "$date": "2025-08-01T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2025-08-03T00:00:00.000Z"
+  },
+  "prizePool": 5000,
+  "maxPlayers": 100,
+  "createdAt": {
+    "$date": "2025-07-22T17:42:21.100Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-22T17:42:21.100Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687fcd7d0f9dca069a1a7fe1"
+  },
+  "name": "Rapid Grand Prix",
+  "type": "rapid",
+  "status": "active",
+  "startDate": {
+    "$date": "2025-07-20T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2025-07-27T00:00:00.000Z"
+  },
+  "currentRound": 3,
+  "playersJoined": 64,
+  "createdAt": {
+    "$date": "2025-07-21T17:42:21.100Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-22T17:42:21.100Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687fcd7d0f9dca069a1a7fe2"
+  },
+  "name": "Bullet Masters",
+  "type": "bullet",
+  "status": "completed",
+  "startDate": {
+    "$date": "2025-06-10T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2025-06-12T00:00:00.000Z"
+  },
+  "winner": "user_618",
+  "prizePool": 2500,
+  "participants": 50,
+  "createdAt": {
+    "$date": "2025-07-19T17:42:21.100Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-21T17:42:21.100Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687fcd7d0f9dca069a1a7fe3"
+  },
+  "name": "Daily Puzzle Challenge",
+  "type": "daily",
+  "status": "active",
+  "startDate": {
+    "$date": "2025-07-15T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2025-07-30T00:00:00.000Z"
+  },
+  "currentDay": 9,
+  "maxDays": 15,
+  "entryFee": 100,
+  "createdAt": {
+    "$date": "2025-07-22T17:42:21.100Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-22T17:42:21.100Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687fcd7d0f9dca069a1a7fe4"
+  },
+  "name": "Weekend Swiss Open",
+  "type": "classical",
+  "status": "upcoming",
+  "startDate": {
+    "$date": "2025-08-10T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2025-08-11T00:00:00.000Z"
+  },
+  "rounds": 5,
+  "timeControl": "90+30",
+  "createdAt": {
+    "$date": "2025-07-22T17:42:21.100Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-22T17:42:21.100Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687fcd7d0f9dca069a1a7fe5"
+  },
+  "name": "Chess.com Qualifier",
+  "type": "mixed",
+  "status": "registration",
+  "startDate": {
+    "$date": "2025-09-01T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2025-09-05T00:00:00.000Z"
+  },
+  "minRating": 1500,
+  "organizer": "Chess.com",
+  "createdAt": {
+    "$date": "2025-07-22T17:42:21.100Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-22T17:42:21.100Z"
+  }
+}]

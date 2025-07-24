@@ -1,0 +1,149 @@
+[{
+  "_id": {
+    "$oid": "687fcb3e4eef5595b1034beb"
+  },
+  "userId": "user1_id",
+  "coins": 100,
+  "createdAt": {
+    "$date": "2025-07-22T17:32:46.112Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-22T17:32:46.112Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687fcc444eef5595b1034bec"
+  },
+  "userId": "user_101",
+  "coins": 100,
+  "type": "daily_login",
+  "streak": 5,
+  "createdAt": {
+    "$date": "2025-07-22T17:37:08.905Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-22T17:37:08.905Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687fcc444eef5595b1034bed"
+  },
+  "userId": "user_205",
+  "coins": 250,
+  "type": "achievement",
+  "achievement": "First Victory",
+  "createdAt": {
+    "$date": "2025-07-21T17:37:08.905Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-21T17:37:08.905Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687fcc444eef5595b1034bee"
+  },
+  "userId": "user_307",
+  "coins": 500,
+  "type": "level_up",
+  "level": 10,
+  "createdAt": {
+    "$date": "2025-07-22T17:37:08.905Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-22T17:37:08.905Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687fcc444eef5595b1034bef"
+  },
+  "userId": "user_412",
+  "coins": 50,
+  "type": "daily_login",
+  "streak": 2,
+  "createdAt": {
+    "$date": "2025-07-20T17:37:08.905Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-20T17:37:08.905Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687fcc444eef5595b1034bf0"
+  },
+  "userId": "user_523",
+  "coins": 1000,
+  "type": "tournament_win",
+  "tournament": "Weekly Blitz",
+  "position": 1,
+  "createdAt": {
+    "$date": "2025-07-22T17:37:08.905Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-22T17:37:08.905Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687fcc444eef5595b1034bf1"
+  },
+  "userId": "user_618",
+  "coins": 150,
+  "type": "referral",
+  "referredUser": "user_724",
+  "createdAt": {
+    "$date": "2025-07-22T17:37:08.905Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-22T17:37:08.905Z"
+  }
+},
+{
+  "_id": "687fcc444eef5595b1034bed",
+  "userId": "user_102",
+  "coins": 85,
+  "type": "daily_login",
+  "streak": 7,
+  "createdAt": "2025-07-22T17:37:08.905+00:00",
+  "updatedAt": "2025-07-22T17:37:08.905+00:00"
+},
+{
+  "_id": "687fcc444eef5595b1034bee",
+  "userId": "user_103",
+  "coins": 120,
+  "type": "achievement",
+  "streak": 3,
+  "createdAt": "2025-07-22T17:37:08.905+00:00",
+  "updatedAt": "2025-07-22T17:37:08.905+00:00"
+},
+{
+  "_id": "687fcc444eef5595b1034bef",
+  "userId": "user_104",
+  "coins": 65,
+  "type": "referral",
+  "streak": 12,
+  "createdAt": "2025-07-22T17:37:08.905+00:00",
+  "updatedAt": "2025-07-22T17:37:08.905+00:00"
+},
+{
+  "_id": "687fcc444eef5595b1034bf0",
+  "userId": "user_105",
+  "coins": 150,
+  "type": "special_event",
+  "streak": 1,
+  "createdAt": "2025-07-22T17:37:08.905+00:00",
+  "updatedAt": "2025-07-22T17:37:08.905+00:00"
+},
+{
+  "_id": "687fcc444eef5595b1034bf1",
+  "userId": "user_106",
+  "coins": 95,
+  "type": "daily_login",
+  "streak": 9,
+  "createdAt": "2025-07-22T17:37:08.905+00:00",
+  "updatedAt": "2025-07-22T17:37:08.905+00:00"
+}]

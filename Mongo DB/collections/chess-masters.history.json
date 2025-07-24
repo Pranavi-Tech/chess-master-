@@ -1,0 +1,195 @@
+[{
+  "_id": {
+    "$oid": "687fce360f9dca069a1a7fe6"
+  },
+  "gameId": "game_101",
+  "playerWhite": "user_101",
+  "playerBlack": "user_205",
+  "result": "1-0",
+  "moves": 42,
+  "date": {
+    "$date": "2025-07-15T00:00:00.000Z"
+  },
+  "opening": "C65",
+  "timeControl": "3+2",
+  "createdAt": {
+    "$date": "2025-07-22T17:45:26.310Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-22T17:45:26.310Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687fce360f9dca069a1a7fe7"
+  },
+  "gameId": "game_202",
+  "playerWhite": "user_307",
+  "playerBlack": "user_412",
+  "result": "0-1",
+  "moves": 38,
+  "date": {
+    "$date": "2025-07-18T00:00:00.000Z"
+  },
+  "opening": "D02",
+  "timeControl": "10+0",
+  "createdAt": {
+    "$date": "2025-07-21T17:45:26.310Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-22T17:45:26.310Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687fce360f9dca069a1a7fe8"
+  },
+  "gameId": "game_303",
+  "playerWhite": "user_523",
+  "playerBlack": "user_618",
+  "result": "1/2-1/2",
+  "moves": 85,
+  "date": {
+    "$date": "2025-07-20T00:00:00.000Z"
+  },
+  "opening": "B90",
+  "timeControl": "15+10",
+  "endReason": "insufficient material",
+  "createdAt": {
+    "$date": "2025-07-22T17:45:26.310Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-22T17:45:26.310Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687fce360f9dca069a1a7fe9"
+  },
+  "gameId": "game_404",
+  "playerWhite": "user_724",
+  "playerBlack": "user_809",
+  "result": "1-0",
+  "moves": 27,
+  "date": {
+    "$date": "2025-07-21T00:00:00.000Z"
+  },
+  "opening": "E61",
+  "timeControl": "5+3",
+  "endReason": "resignation",
+  "createdAt": {
+    "$date": "2025-07-22T17:45:26.310Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-22T17:45:26.310Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687fce360f9dca069a1a7fea"
+  },
+  "gameId": "game_505",
+  "playerWhite": "user_915",
+  "playerBlack": "user_102",
+  "result": "0-1",
+  "moves": 31,
+  "date": {
+    "$date": "2025-07-22T00:00:00.000Z"
+  },
+  "opening": "A00",
+  "timeControl": "1+0",
+  "endReason": "timeout",
+  "createdAt": {
+    "$date": "2025-07-20T17:45:26.310Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-21T17:45:26.310Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687fce360f9dca069a1a7feb"
+  },
+  "gameId": "game_606",
+  "playerWhite": "user_113",
+  "playerBlack": "user_214",
+  "result": "1-0",
+  "moves": 56,
+  "date": {
+    "$date": "2025-07-22T00:00:00.000Z"
+  },
+  "opening": "C44",
+  "timeControl": "30+0",
+  "tournament": "Blitz Championship",
+  "createdAt": {
+    "$date": "2025-07-22T17:45:26.310Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-22T17:45:26.310Z"
+  }
+},
+{
+  "_id": "687fce360f9dca069a1a7fec",
+  "gameId": "game_207",
+  "playerWhite": "user_307",
+  "playerBlack": "user_412",
+  "result": "1-0",
+  "moves": 45,
+  "date": "2025-07-10T00:00:00.000+00:00",
+  "opening": "C42",
+  "timeControl": "15+10",
+  "createdAt": "2025-07-21T17:45:26.310+00:00",
+  "updatedAt": "2025-07-22T17:45:26.310+00:00"
+},
+{
+  "_id": "687fce360f9dca069a1a7fed",
+  "gameId": "game_208",
+  "playerWhite": "user_415",
+  "playerBlack": "user_307",
+  "result": "½-½",
+  "moves": 72,
+  "date": "2025-07-11T00:00:00.000+00:00",
+  "opening": "E90",
+  "timeControl": "30+20",
+  "createdAt": "2025-07-21T17:45:26.310+00:00",
+  "updatedAt": "2025-07-22T17:45:26.310+00:00"
+},
+{
+  "_id": "687fce360f9dca069a1a7fee",
+  "gameId": "game_209",
+  "playerWhite": "user_412",
+  "playerBlack": "user_418",
+  "result": "0-1",
+  "moves": 51,
+  "date": "2025-07-12T00:00:00.000+00:00",
+  "opening": "B01",
+  "timeControl": "5+3",
+  "createdAt": "2025-07-21T17:45:26.310+00:00",
+  "updatedAt": "2025-07-22T17:45:26.310+00:00"
+},
+{
+  "_id": "687fce360f9dca069a1a7fef",
+  "gameId": "game_210",
+  "playerWhite": "user_418",
+  "playerBlack": "user_307",
+  "result": "1-0",
+  "moves": 33,
+  "date": "2025-07-13T00:00:00.000+00:00",
+  "opening": "A40",
+  "timeControl": "3+2",
+  "createdAt": "2025-07-21T17:45:26.310+00:00",
+  "updatedAt": "2025-07-22T17:45:26.310+00:00"
+},
+{
+  "_id": "687fce360f9dca069a1a7ff0",
+  "gameId": "game_211",
+  "playerWhite": "user_412",
+  "playerBlack": "user_415",
+  "result": "½-½",
+  "moves": 64,
+  "date": "2025-07-14T00:00:00.000+00:00",
+  "opening": "D00",
+  "timeControl": "10+0",
+  "createdAt": "2025-07-21T17:45:26.310+00:00",
+  "updatedAt": "2025-07-22T17:45:26.310+00:00"
+}]

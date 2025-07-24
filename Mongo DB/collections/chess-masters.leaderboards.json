@@ -1,0 +1,135 @@
+[{
+  "_id": {
+    "$oid": "687fcaa6fea314eebe0817f3"
+  },
+  "userId": "user_101",
+  "score": 1520,
+  "rank": 42,
+  "mode": "blitz",
+  "createdAt": {
+    "$date": "2025-07-22T17:30:14.970Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-22T17:30:14.970Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687fcaa6fea314eebe0817f4"
+  },
+  "userId": "user_205",
+  "score": 1780,
+  "rank": 15,
+  "mode": "rapid",
+  "createdAt": {
+    "$date": "2025-07-21T17:30:14.970Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-22T17:30:14.970Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687fcaa6fea314eebe0817f5"
+  },
+  "userId": "user_307",
+  "score": 1925,
+  "rank": 7,
+  "mode": "bullet",
+  "createdAt": {
+    "$date": "2025-07-19T17:30:14.970Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-20T17:30:14.970Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687fcaa6fea314eebe0817f6"
+  },
+  "userId": "user_412",
+  "score": 1640,
+  "rank": 35,
+  "mode": "blitz",
+  "createdAt": {
+    "$date": "2025-07-22T17:30:14.970Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-22T17:30:14.970Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687fcaa6fea314eebe0817f7"
+  },
+  "userId": "user_523",
+  "score": 1450,
+  "rank": 78,
+  "mode": "daily",
+  "createdAt": {
+    "$date": "2025-07-20T17:30:14.970Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-21T17:30:14.970Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687fcaa6fea314eebe0817f8"
+  },
+  "userId": "user_618",
+  "score": 2050,
+  "rank": 1,
+  "mode": "bullet",
+  "createdAt": {
+    "$date": "2025-07-22T17:30:14.970Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-22T17:30:14.970Z"
+  }
+},
+{
+  "_id": "687fcaa6fea314eebe0817f5",
+  "userId": "user_102",
+  "score": 1925,
+  "rank": 8,
+  "mode": "blitz",
+  "createdAt": "2025-07-21T17:30:14.970+00:00",
+  "updatedAt": "2025-07-22T17:30:14.970+00:00"
+},
+{
+  "_id": "687fcaa6fea314eebe0817f6",
+  "userId": "user_103",
+  "score": 2050,
+  "rank": 3,
+  "mode": "bullet",
+  "createdAt": "2025-07-21T17:30:14.970+00:00",
+  "updatedAt": "2025-07-22T17:30:14.970+00:00"
+},
+{
+  "_id": "687fcaa6fea314eebe0817f7",
+  "userId": "user_104",
+  "score": 1650,
+  "rank": 42,
+  "mode": "classical",
+  "createdAt": "2025-07-21T17:30:14.970+00:00",
+  "updatedAt": "2025-07-22T17:30:14.970+00:00"
+},
+{
+  "_id": "687fcaa6fea314eebe0817f8",
+  "userId": "user_105",
+  "score": 1785,
+  "rank": 22,
+  "mode": "rapid",
+  "createdAt": "2025-07-21T17:30:14.970+00:00",
+  "updatedAt": "2025-07-22T17:30:14.970+00:00"
+},
+{
+  "_id": "687fcaa6fea314eebe0817f9",
+  "userId": "user_106",
+  "score": 1875,
+  "rank": 12,
+  "mode": "tournament",
+  "createdAt": "2025-07-21T17:30:14.970+00:00",
+  "updatedAt": "2025-07-22T17:30:14.970+00:00"
+}]
